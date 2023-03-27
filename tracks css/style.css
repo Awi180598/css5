@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,
+body
+.container{
+    width: 100%;
+    height: 100%;
+    background-image:url(https://tse2.mm.bing.net/th?id=OIP.Bloa-zFwcXM3DLgE_IbstQHaE8&pid=Api&P=0 );
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}}
+h1{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+h2{
+    font-size: 50px;
+    color: aliceblue;
+}
+p{
+    font-size: 20px;
+    color: antiquewhite;
+}
+button{
+    font-size: 20px;
+    padding: 10px,30px;
+    border: 1px solid red;
+    box-shadow: 0 0 10px red;
+    border-radius: 50px;
+
+}
+.content{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.overlay{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(0, 0, 0;)
+}
